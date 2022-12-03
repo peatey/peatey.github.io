@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  peatey
+github_username: peatey
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/avatar_ios.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Warwick and I'm an Engineering Manager. I work primarily in the multi cloud infratstrucutre delivery space as a good people leader, decent AWS developer and dangerous Go programmer. 
+  Hi, my name's Warwick and I'm an Engineering Manager. I work primarily in the multi-cloud infrastructure delivery space as a good people leader, decent AWS developer and dangerous Go programmer. 
 
   I am most skilled in: <mark>Leadership</mark> and <mark>AWS</mark>
 

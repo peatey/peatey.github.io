@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Warwick and I'm an Engineering Manager. I work primarily in the multi-cloud infrastructure delivery space as a good people leader, decent AWS developer and dangerous Go programmer. 
+  Hi, my name's Warwick and I'm an Engineering Manager. I work primarily in the multi-cloud infrastructure delivery space as a good people leader, decent AWS developer and rusty programmer. 
 
   I am most skilled in: <mark>Leadership</mark> and <mark>AWS</mark>
 

@@ -21,11 +21,11 @@ github_username: peatey
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+# instagram_username: none
 linkedin_username: warwickpeatey
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+# youtube_username: none
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -61,7 +61,7 @@ content:
         link: nab.com.au
         # link_text: nab.com.au
         sub_title: Cloud Engineering Manager
-        caption: Jan 2022 - Present
+        caption: Jan 2022 - April 2023
         quote: >
           Delivering cloud native best in industry services to help our communities and customers prosper
         description: | # this will include new lines to allow paragraphs

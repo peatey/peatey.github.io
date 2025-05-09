@@ -60,12 +60,12 @@ content:
         title: Apptio, An IBM Company
         link: apptio.com
         # link_text: nab.com.au
-        sub_title: Manager SRE
+        sub_title: Platform Engineering Manager
         caption: April 2023 - Present
         quote: >
           Your tech spend data, working for you
         description: | # this will include new lines to allow paragraphs
-            Delivering industry best Developer Platforms and SRE services to our internal product teams. I run the APAC and the US Commercial segment of the Global SRE team primarily operating in the K8s and AWS space. 
+            Delivering industry best Developer Platforms and SRE services to our internal product teams. I run the APAC and the US Commercial segment of the Global PE team primarily operating in the K8s and AWS space. 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:

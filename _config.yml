@@ -77,7 +77,7 @@ content:
         quote: >
           Delivering cloud native best in industry services to help our communities and customers prosper
         description: | # this will include new lines to allow paragraphs
-            Delivering secure and repeatable systems and services takes time and extreme effort at NABs scale. I am proud to lead the teams that deliver both our IaC and imaging functions and work with the best in the industry. 
+            Delivering secure and repeatable systems and services takes time and extreme effort at NAB’s scale. I am proud to lead the teams that deliver both our IaC and imaging functions and work with the best in the industry. 
 
   - layout: list # Type of content section (list/text)
     content:

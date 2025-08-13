@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Warwick Peatey 
-title: Engineering Manager - Developer Platforms
+title: Senior Engineering Manager
 email: hey@automatic.systems
 website: peatey.net
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Warwick and I'm an Engineering Manager. I work primarily in the multi-cloud infrastructure delivery space as a good people leader, decent AWS developer and rusty programmer. 
+  Hi, my name's Warwick and I'm an Engineering Manager. I work primarily in the multi-cloud infrastructure delivery space as a good people leader, decent AWS developer and go programmer. 
 
   I am most skilled in: <mark>Leadership</mark> , <mark>AWS</mark> and <mark>FinOps</mark>
 
@@ -60,8 +60,20 @@ content:
         title: Apptio, An IBM Company
         link: apptio.com
         # link_text: nab.com.au
+        sub_title: Senior Software Engineering Manager - Kubecost
+        caption: June 2025 - Present
+        quote: >
+          Your tech spend data, working for you
+        description: | # this will include new lines to allow paragraphs
+            Helping DevOps engineers and application development teams track and reduce their Kubernetes spend with real-time cost visibility across hybrid and multi-cloud environments. Leading a full stack squad we develop features on both the Kubecost and OpenCost products.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Apptio, An IBM Company
+        link: apptio.com
+        # link_text: nab.com.au
         sub_title: Platform Engineering Manager
-        caption: April 2023 - Present
+        caption: April 2023 - June 2025
         quote: >
           Your tech spend data, working for you
         description: | # this will include new lines to allow paragraphs

@@ -54,8 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+    #layout: list # Type of content section (list/text)
+    #content:
       - layout: left
         title: Apptio, An IBM Company
         link: apptio.com
@@ -72,10 +72,14 @@ content:
         title: Apptio, An IBM Company
         link: apptio.com
         # link_text: nab.com.au
-        sub_title: Platform Engineering Manager
-        caption: April 2023 - June 2025
+        sub_title: Senior Software Engineering Manager - Kubecost
+        caption: June 2025 - Present
         quote: >
           Your tech spend data, working for you
+        description: | # this will include new lines to allow paragraphs
+            Helping DevOps engineers and application development teams track and reduce their Kubernetes spend with real-time cost visibility across hybrid and multi-cloud environments. Leading a full stack squad we develop features on both the Kubecost and OpenCost products.
+        sub_title: Platform Engineering Manager
+        caption: April 2023 - June 2025
         description: | # this will include new lines to allow paragraphs
             Delivering industry best Developer Platforms and SRE services to our internal product teams. I run the APAC and the US Commercial segment of the Global PE team primarily operating in the K8s and AWS space. 
   - layout: list # Type of content section (list/text)
